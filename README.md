@@ -1,6 +1,6 @@
-# genetic-engineering
+# Genetic Engineering Attribution Challenge
 
-Genetic engineering attribution is the process of identifying the source of a genetically engineered piece of DNA. Reducing anonymity can encourage more responsible behavior within scientific and entrepreneurial communities, without stifling innovation. The objective of this competition is to predict the laboratory of origin for plasmid DNA sequences.
+Genetic engineering attribution is the process of identifying the source of a genetically engineered piece of DNA. Reducing anonymity can encourage more responsible behavior within scientific and entrepreneurial communities, without stifling innovation. The objective of this competition is to predict the laboratory of origin for plasmid DNA sequences. [DrivenData](https://www.drivendata.org/competitions/63/genetic-engineering-attribution/)
 
 ## The features in this dataset
 This dataset consists of DNA sequences from genetically engineered plasmids. Plasmids are small, circular DNA molecules that replicate independently from chromosomes.
